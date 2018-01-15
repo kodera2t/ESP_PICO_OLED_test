@@ -7,4 +7,4 @@ inside
 ``
 Arduino/hardware/espressif/esp32/variant/esp32
 ``
-and replace with the file in this repository.
+and replace with the file in this repository, and install "Adafruit_GFX" and "ESP_SSD1306" libraries..
